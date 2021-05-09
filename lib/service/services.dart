@@ -2,7 +2,7 @@ import 'package:http/http.dart' as http;
 import '../model/model.dart';
 
 class Webservice {
-  Future fetchCountries() async {
+  Future fetchPosts() async {
     String url =
         "https://raw.githubusercontent.com/Muhaiminur/muhaiminur.github.io/master/misfitflutter.tech";
 

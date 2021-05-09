@@ -15,7 +15,7 @@ class _BlogHomeState extends State<BlogHome> {
 
   @override
   void initState() {
-    Webservice().fetchCountries().then((data) {
+    Webservice().fetchPosts().then((data) {
       setState(() {
         blogPost = data;
         isLoading = false;
