@@ -19,7 +19,7 @@ In the command terminal, run the following commands:
 ### Download
 
 <div>
-<a href='https://github.com/enamulhaque028/blog_post/blob/master/screenshots/blog_post.apk' target='_blank'><img alt='Get it on GitHub' src='https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png' height='48px'/></a>
+<a href='https://github.com/enamulhaque028/blog_post/blob/master/screenshots/blog_post.apk?raw=true' target='_blank'><img alt='Get it on GitHub' src='https://cdn.icon-icons.com/icons2/2108/PNG/512/flutter_icon_130936.png' height='48px'/></a>
 </div>
 
 #### Screenshot
